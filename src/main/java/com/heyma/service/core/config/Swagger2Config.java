@@ -27,7 +27,7 @@ public class Swagger2Config {
         return new ApiInfoBuilder()
                 .title("Service - REST API")
                 .description("OpenAPI especification v3 REST API")
-                .contact(new Contact("ITEAM | Business Technology", "mydigital.com", "info@mydigital.com"))
+                .contact(new Contact("Java Spring | MicroService", "mydigital.com", "info@mydigital.com"))
                 .license("Apache 2.0")
                 .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")
                 .version("1.0.0")
